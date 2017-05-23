@@ -1,2 +1,2 @@
 # sudoku
-demo : https://www.saeedtrb.com/fun/sudoku/
+Online View : https://www.saeedtrb.com/fun/sudoku/
