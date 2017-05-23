@@ -1,0 +1,22 @@
+{
+  "name": "sudoku",
+  "authors": [
+    "saeedtrb <saeedtrb@yahoo.com>"
+  ],
+  "description": "Islamic Azad University training courses, artificial intelligence",
+  "main": "index.html",
+  "keywords": [
+    "Sudoku",
+    "artificial",
+    "intelligence"
+  ],
+  "license": "MIT",
+  "homepage": "https://saeedtrb.com/fun/sudoku",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
